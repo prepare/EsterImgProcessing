@@ -1,2 +1,2 @@
 # EsterImgProcessing
-code from https://softwarebydefault.com with MS-PL license
+Works of Dewald Esterhuizen(@Softwarebydefault) , https://softwarebydefault.com with MS-PL license
