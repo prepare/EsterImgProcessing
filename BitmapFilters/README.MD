@@ -1,0 +1,1 @@
+https://softwarebydefault.com/2013/03/02/bitmap-image-filters/
