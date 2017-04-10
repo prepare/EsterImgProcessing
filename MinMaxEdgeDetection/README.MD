@@ -1,0 +1,1 @@
+https://softwarebydefault.com/2015/08/09/minmax-edge-detection/
