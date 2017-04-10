@@ -1,1 +1,1 @@
-https://softwarebydefault.com/2013/05/19/image-erosion-dilation/
+https://softwarebydefault.com/2013/04/20/image-contrast/
