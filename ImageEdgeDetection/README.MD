@@ -1,0 +1,1 @@
+https://softwarebydefault.com/2013/05/11/image-edge-detection/
